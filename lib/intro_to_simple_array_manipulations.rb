@@ -4,7 +4,7 @@ end
 
 def using_insert(array, element)
   string = ""
-  string.insert(array, new_element)
+  string.insert(array, element)
 end
 
 def using_uniq(array)
